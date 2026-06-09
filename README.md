@@ -2,6 +2,7 @@
 
 Este repositorio contiene el desarrollo del **Ejercicio 3** para el Segundo Parcial de la materia **Robótica IMT-342**. Se implementa un agente de aprendizaje por refuerzo profundo basado en el algoritmo **DQN (Deep Q-Network)** integrado con **Gymnasium** y el middleware **ROS 2 Jazzy Jalisco** para navegar de forma autónoma en entornos con alta oclusión espacial.
 
+El reporte generado se encuentra en la rama main con el nombre de "Reporte Tecnico_ Navegacion Autonoma DQN en ROS 2"
 ---
 
 ## 📋 Requisitos del Sistema
