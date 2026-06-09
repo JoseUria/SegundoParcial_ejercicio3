@@ -1,0 +1,13 @@
+# Ignorar carpetas de compilación de ROS 2
+build/
+install/
+log/
+
+# Ignorar archivos ocultos del sistema o entornos virtuales
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
